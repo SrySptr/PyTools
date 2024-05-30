@@ -1,0 +1,99 @@
+>>>>>Tools Sekolah():
+    -Jadwal Sekolah SMKN Kandeman():
+        *Jadwal Kelas X 
+        *Jadwal Kelas XI
+        *Jadwal Kelas XII 
+        *Jadwal Guru Piket
+        *KELUAR
+    -Biodata Siswa X PPLG 1
+    -Plot Jam SMKN Kandeman
+    -KELUAR
+
+>>>>>Tools Kejawen():
+    -Cek Weton
+    -Cek Weton Jodoh
+    -Ramal Nomor Togel():
+        *Nomor Togel 2 Angka
+        *Nomor Togel 3 Angka
+        *Nomor Togel 4 Angka
+        *KELUAR
+    -KELUAR
+
+>>>>>Tools Zodiak():
+    -Zodiak Rasi Bintang
+    -Zodiak Cina
+    -KELUAR
+
+>>>>>Game
+    -Number Quest
+    -LETTER MASTERMIND
+    -MIGHTY SCISSORS PAPER
+    -KELUAR
+
+>>>>>Generator Tools
+    -Password Generator():
+        *Password Angka
+        *Password Huruf Kecil
+        *Password Huruf Kapital
+        *Password Random
+        *KELUAR
+    -QrCode Generator
+    -Number Phone Generator
+        *XL
+        *Telkomsel
+        *Tri
+        *Indosat Ooredoo
+        *Smartfren
+        *AXIS
+    -KELUAR
+    
+>>>>>Random Tools
+    -LOVE CALCULATOR
+    -Text To Voice 
+        *BAHASA INDONESIA
+        *BAHASA ITALIA
+        *BAHASA INGGRIS
+        *BAHASA JEPANG
+        *BAHASA AFRIKA
+        *BAHASA ARAB
+        *BAHASA GERMAN
+        *BAHASA SPANYOL
+        *BAHASA INDIA
+        *BAHASA JAWA
+        *BAHASA KOREA
+        *BAHASA RUSIA
+        *BAHASA SUNDA
+        *BAHASA FILIPINA
+        *BAHASA THAILAND
+        *BAHASA CHINA
+        *BAHASA UKRAINA
+        *BAHASA TURKI
+        *BAHASA VIETNAM
+        *BAHASA KANADA
+        *KELUAR
+    -Text To Ascii
+        *STANDARD
+        *BLOCK
+        *SLANT
+        *DOH
+        *ALLIGATOR
+        *BULBHEAD
+        *CYBER LARGE
+        *BANNER 3D
+        *ALPHABET
+        *KELUAR
+    -DDOS Attack Simulator
+        *Ddos Attack Menggunakan Ip Address
+        *Ddos Attack Menggunakan Url Website
+        *KELUAR
+    -Cek Umur
+    -Kalender
+        *Kalender (Bulan)
+        *Kalender (Tahun)
+        *KELUAR
+    -Cek Tahun Kabisat
+    -Cek Bilangan Ganjil/Genap
+    -KELUAR
+    
+>>>>>CREDITS
+>>>>>KELUAR
